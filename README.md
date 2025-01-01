@@ -51,3 +51,5 @@ Bitcoin Futuristic Prediction System
 ![Cryto-currency_Predictor_System](https://github.com/MuhammedYaseen786/Cryto-currency_Predictor_System/blob/main/Bitcoin%20clip-5.jpg)
 
 
+**LocalHost Portal:**
+  -  http://127.0.0.1:5000/predict?stock=BTC-EUR&no_of_days=10
