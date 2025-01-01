@@ -34,7 +34,7 @@ Bitcoin Futuristic Prediction System
   -  Use Case: Inform portfolio management strategies by calculating metrics such as Value at Risk (VaR).
 
 **Summary**
-Hence, This Bitcoin predictive system plays a vital role of price fluctuations on overtime particularly, closing price calculations are performed to predict the futuristic predictions with 90% of accuracy level is kept to consider results with risk analysis
+  -  Hence, This Bitcoin predictive system plays a vital role of price fluctuations on overtime particularly, closing price calculations are performed to predict the futuristic predictions with 90% of accuracy level is kept to consider results with risk analysis
 
 ![Cryto-currency_Predictor_System](https://github.com/MuhammedYaseen786/Cryto-currency_Predictor_System/blob/main/Bitcoin%20clip.jpg)
 
